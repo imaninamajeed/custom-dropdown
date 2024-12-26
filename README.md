@@ -23,4 +23,4 @@ This file contains the JavaScript logic for the custom dropdown component. It ha
 
 ## Project Page
 
-You can view the project page at [https://github.com/imaninamajeed/custom-dropdown.git](https://github.com/imaninamajeed/custom-dropdown.git)
+You can view the project page at [https://github.com/imaninamajeed/custom-dropdown](https://github.com/imaninamajeed/custom-dropdown.git)
