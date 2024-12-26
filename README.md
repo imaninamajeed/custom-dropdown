@@ -1,5 +1,9 @@
 # Custom Dropdown
+This project is a page designed to showcase custom dropdown.
 
+## Features
+
+## Getting Started
 1. Clone the repository:
    ```sh
    git clone https://github.com/imaninamajeed/custom-dropdown.git
@@ -8,6 +12,7 @@
    ```sh
    cd custom-dropdown
    ```
+
 3. Open `index.html` in your web browser to view the dropdown component.
 
 ## Project Files
@@ -27,3 +32,5 @@ This file contains the JavaScript logic for the custom dropdown component. It ha
 ## Project Page
 
 You can view the project page at [https://github.com/imaninamajeed/custom-dropdown](https://github.com/imaninamajeed/custom-dropdown)
+
+Check out the live demo of the project [here](https://roadmap.sh/projects/custom-dropdown).
